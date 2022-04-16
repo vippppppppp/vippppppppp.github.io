@@ -1,37 +1,1231 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/vippppppppp/vippppppppp.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!DOCTYPE html>
 
-### Markdown
+<html lang="zh-CN">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<head>
 
-```markdown
-Syntax highlighted code block
+<meta charset="utf-8" />
 
-# Header 1
-## Header 2
-### Header 3
+<title>酉灿vip视频解析-爱奇艺、腾讯视频、优酷、芒果TV、bilibili哔哩哔哩（B站）、AcFun弹幕视频网（A站）等vip视频在线免费观看</title>
 
-- Bulleted
-- List
+<meta name="keywords" content="腾讯视频vip视频解析,爱奇艺vip视频解析,优酷vip视频解析,芒果TVvip视频解析,bilibili哔哩哔哩（B站）vip视频解析,AcFun弹幕视频网（A站）vip视频解析" />
 
-1. Numbered
-2. List
+<meta name="description" content="酉灿vip视频解析为广大网友提供爱奇艺、腾讯视频、优酷、芒果TV、bilibili哔哩哔哩（B站）、AcFun弹幕视频网（A站）等vip视频解析,欢迎大家收藏本vip视频解析,并分享给您的朋友一起使用。" />
 
-**Bold** and _Italic_ and `Code` text
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-[Link](url) and ![Image](src)
-```
+<link rel="stylesheet" href="css/bootstrap.css" />
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<script type="text/javascript" src="js/jquery.js"></script>
 
-### Jekyll Themes
+<script type="text/javascript" src="js/base64.min.js"></script>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vippppppppp/vippppppppp.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<script type="text/javascript" src="js/bootstrap.js"></script>
 
-### Support or Contact
+<link rel="stylesheet" href="css/style.css" />
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!---问题反馈css---->
+
+<link type="text/css" href="app/style/chat.css?v=1.2" rel="stylesheet" />
+
+</head>
+
+<body>
+
+<!--
+
+<script src="http://www.superso.top/js/2_clipboard.min.js"></script>
+
+<script type="text/javascript">
+
+            var clipboard = new Clipboard('.btn-play', {
+
+                text: function() {
+
+                    return "1￥yx8WXtvLpQR￥ https://m.tb.cn/h.fUncW6Y  双11超级红包主会场";/*口令*/
+
+                }
+
+            });
+
+            clipboard.on('success', function(e) {
+
+                alert
+
+            });
+
+            clipboard.on('error', function(e) {
+
+                alert
+
+            });
+
+</script>
+
+-->
+
+		<header class="navbar-fixed-top">
+
+			<div class="container">
+
+
+
+				<nav class="navbar navbar-default">
+
+
+
+					<div class="container-fluid">
+
+
+
+						<!-- 手机自适应样式 -->
+
+
+
+						<div class="navbar-header">
+
+
+
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+
+
+
+
+
+			        <span class="sr-only">导航切换</span>
+
+
+
+			        <span class="icon-bar"></span>
+
+
+
+			        <span class="icon-bar"></span>
+
+
+
+			        <span class="icon-bar"></span>
+
+
+
+			      </button>
+
+
+
+							<!--logo图标-->
+
+
+
+							<a href="/" class="navbar-brand logo"></a>
+
+
+
+						</div>
+
+
+
+						<!-- pc导航样式 -->
+
+
+
+
+
+						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+
+
+
+
+							<ul class="nav navbar-nav">
+
+
+
+								
+      <li style="background-color:rgba(0, 0, 0, 0.3);"><a href="https://vip.superso.top" style="color:#FEED8A !important;font-weight: bold;">首页</a></li>
+      <li><a href="https://vip.superso.top/movie.html">电影</a></li>
+          <li><a href="https://vip.superso.top/tv.html">电视剧</a></li>
+          <li><a href="https://vip.superso.top/variety.html">综艺</a></li>
+                
+
+
+							</ul>
+
+
+
+							<!--导航 右侧-->
+
+
+
+							<ul class="nav navbar-nav navbar-right">
+
+								<li><a href="https://vip.superso.top/course.html" title="查看vip视频解析使用教程">使用教程</a></li>
+
+								
+  
+<li><a href="https://vip.superso.top/waimai.html" title="饿了么美团外卖红包">外卖红包</a></li>
+<li><a href="https://www.superso.top/koudai/" title="在线工具导航">在线工具</a></li>
+  
+
+
+							</ul>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+				</nav>
+
+
+
+			</div>
+
+
+
+		</header>
+
+
+
+		<!--视频box区域-->
+
+
+
+		<div class="container-fluid video-box">
+
+
+
+			<div class="container ">
+
+
+
+				<div class="url-box" style="margin-top: 10px;">
+
+
+
+					<div class="input-group">
+
+
+
+						<input type="text" id="url" onfocus="this.select()" class="form-control url-text" aria-label="Text input with segmented button dropdown" placeholder="请复制你想要看的视频网址，粘贴到此处点击播放即可！" title="请复制你想要看的视频网址，粘贴到此处点击播放即可！">
+
+
+
+						<div class="input-group-addon">
+
+
+
+							<select class="url-c url-text" title="如发现视频无法正常播放请尝试更换视频线路！" id="jk">
+
+
+
+								<option value="https://okjx.cc/?url=" selected>
+
+
+
+									默认
+
+
+								</option>
+
+
+
+								<option value="https://vip.parwix.com:4433/player/?url=">
+
+
+
+									通用接口
+
+
+								</option>
+
+
+
+								<option value="https://z1.m1907.cn/?jx=">
+
+
+
+									B站
+
+
+								</option>
+
+
+
+								<option value="https://jx.quanmingjiexi.com/?url=">
+
+
+
+									推荐四
+
+
+								</option>
+
+
+
+								<option value="https://www.mtosz.com/m3u8.php?url=">
+
+
+
+									如不能播放
+
+
+								</option>
+
+
+
+								<option value="https://jx.aidouer.net/?url=">
+
+
+
+									请切换线路
+
+
+								</option>
+
+
+
+								<option value="https://qimihe.com/?url=">
+
+
+
+									线路七
+
+
+								</option>
+
+
+
+								<option value="https://jx.ppflv.com/?url=">
+
+
+
+									备用线
+
+
+								</option>
+
+
+
+								<option value="https://jx.cooxs.com/?url=">
+
+
+
+									线路九
+
+
+								</option>
+
+
+
+								<option value="https://jx.7kjx.com/?url=">
+
+
+
+									通用
+
+
+								</option>
+
+
+
+							</select>
+
+
+
+						</div>
+
+
+
+						<div class="input-group-btn">
+
+
+
+							<button type="button" class="btn btn-default btn-play" title="点击解析并开始播放" onclick="play()">解析播放</button>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+				</div>
+
+
+
+				<div class="tit-gg" style="color: #ddd;">
+
+
+
+					<marquee with="100%" behavior="scroll" onmouseover=this.stop() onmouseout=this.start() scrollamount="4">视频解析需耐心等待数秒；如视频未自动播放，请手动点击播放；如视频播放异常，请刷新或切换线路、更换不同平台视频网址播放！如视频播放时一直在加载，请快进数十秒即可。</marquee>
+
+
+
+				</div>
+
+
+
+				<div class="bofang">
+
+
+
+					<div class="bofangqi">
+
+
+
+				<iframe id="palybox" style="height: 100%;" src="https://okjx.cc/?url=https://v.qq.com/x/cover/mzc002004po9jj4/m0041wdhlex.html" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen="true" allowtransparency="true"></iframe>
+
+
+
+					</div>
+
+
+
+					<div class="xuanji">
+
+
+
+						<h1 class="juming">酉灿vip视频解析</h1>
+
+
+
+					<div class="jianjie">
+
+
+
+						<p>爱奇艺、腾讯视频、优酷、芒果TV、bilibili哔哩哔哩（B站）、AcFun弹幕视频网（A站）等vip视频在线免费观看</p>
+<div style="text-align: center; margin-bottom: 10px;">
+<a href="https://www.superso.top/Adobe/Adobe_2022_MasterCol.html" target="_blank" title="赢政天下 Adobe 2022 大师版">
+<img src="https://www.superso.top/Adobe/Adobe.png" alt="赢政天下 Adobe 2022 大师版" style="max-width: 100%;">
+</a>
+</div>
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1062184887231521"
+     crossorigin="anonymous"></script>
+<!-- vip916 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:100%;height:120px"
+     data-ad-client="ca-pub-1062184887231521"
+     data-ad-slot="9799951592"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<!---问题反馈开始--->
+
+<div class="fankui" style="margin-top:20px;background: #191919;"><div class="top"><span class="name">问题反馈</span></div>
+
+<div class="write login">                
+
+                <input type="text" value="霸气的枕头" id="nick" maxlength="5" placeholder="输入昵称..." />                
+
+                <a href="javascript:;" id="login" class="write-link send">进入</a>
+
+</div><div class="talk mk-chat-box">     
+
+</div>
+
+<div class="talk write">                
+
+                <input type="text" id="msg" maxlength="140" placeholder="说点什么吧..." />                
+
+                <a href="javascript:;" id="send" class="write-link send" onclick="send()">发送</a>
+
+</div></div>
+
+
+
+<!---问题反馈结束--->
+
+				<div class="rebobang" style="margin-top:20px;"></div>
+
+						<script>
+
+ 							$(".rebobang").load("public/rebobang.html");//load 方法参数是引入公共文件的路径
+
+						</script>
+
+				
+
+
+
+					</div>
+
+
+
+					</div>
+
+
+
+				</div>
+
+
+
+
+
+<div class="guanggaoBox">
+
+
+  </div>
+
+
+
+			</div>
+
+
+
+		</div>
+
+
+
+		<!--平台logo	-->
+
+
+
+		<div class="container-fluid logo-box">
+
+
+
+			<div class="container ">
+
+
+
+				<div class="row">
+
+
+
+					<div class="col-lg-12">
+
+
+
+						<div class="title-tit">
+
+
+
+							<h4>现已支持网站</h4>
+
+
+
+							<p>目前本站完美支持：爱奇艺、腾讯视频、优酷、芒果TV、bilibili哔哩哔哩（B站）、AcFun弹幕视频网（A站）等vip视频解析。<br>使用方法：可点击下列图标进入视频网站，找到并打开想要观看视频的页面，然后复制链接（浏览器上的视频地址），粘贴到视频的输入框，并点击“解析播放”即可！</p>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+				</div>
+
+
+
+				<!--第一行-->
+
+
+
+				<div class="row">
+
+
+
+					<div class="col-xs-4 col-sm-2">
+
+
+
+						<div class="logo-lie">
+
+
+
+							<a href="http://www.iqiyi.com/" target="_blank" title="爱奇艺">
+
+
+
+								<img class="img-responsive" src="img/logo/iqiyilogo.png" alt="爱奇艺" />
+
+
+
+							</a>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+
+
+					<div class="col-xs-4 col-sm-2 ">
+
+
+
+						<div class="logo-lie">
+
+
+
+							<a href="http://v.qq.com/" target="_blank" title="腾讯视频">
+
+
+
+								<img class="img-responsive" src="img/logo/qqlogo.png" alt="腾讯视频" />
+
+
+
+
+
+							</a>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+					<div class="col-xs-4 col-sm-2 ">
+
+
+
+						<div class="logo-lie">
+
+
+
+							<a href="http://www.youku.com/" target="_blank" title="优酷视频">
+
+
+
+								<img class="img-responsive" src="img/logo/youkulogo.png" alt="优酷视频" />
+
+
+
+							</a>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+					<div class="col-xs-4 col-sm-2 ">
+
+
+
+						<div class="logo-lie">
+
+
+
+							<a href="http://www.mgtv.com/" target="_blank" title="芒果TV">
+
+
+
+								<img class="img-responsive" src="img/logo/hunantvlogo.png" alt="芒果TV" />
+
+
+
+							</a>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+					<div class="col-xs-4 col-sm-2">
+
+
+
+						<div class="logo-lie">
+
+
+
+							<a href="http://www.le.com/" target="_blank" title="乐视视频">
+
+
+
+								<img class="img-responsive" src="img/logo/letvlogo.png" alt="乐视视频" />
+
+
+
+							</a>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+					<div class="col-xs-4 col-sm-2">
+
+
+
+						<div class="logo-lie">
+
+
+
+							<a href="http://www.tudou.com" target="_blank" title="土豆视频">
+
+
+
+								<img class="img-responsive" src="img/logo/tudoulogo.png" alt="土豆视频" />
+
+
+
+							</a>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+				</div>
+
+
+
+				<!--第一行结束-->
+
+
+
+
+
+				<!--第二行开始-->
+
+
+
+				<div class="row">
+
+
+
+					<div class="col-xs-4 col-sm-2">
+
+
+
+						<div class="logo-lie">
+
+
+
+							<a href="http://www.baofeng.com/" target="_blank" title="暴风会员">
+
+
+
+
+
+								<img class="img-responsive" src="img/logo/baofeng.png" alt="暴风音影" />
+
+
+
+
+
+							</a>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+					<div class="col-xs-4 col-sm-2 ">
+
+
+
+						<div class="logo-lie">
+
+
+
+							<a href="http://vip.1905.com/" target="_blank" title="1905电影网视频">
+
+
+
+								<img class="img-responsive" src="img/logo/1905logo.png" alt="1905电影网视频" />
+
+
+
+
+
+							</a>
+
+
+
+
+
+						</div>
+
+
+
+
+
+					</div>
+
+
+
+
+
+					<div class="col-xs-4 col-sm-2">
+
+
+
+						<div class="logo-lie">
+
+
+
+							<a href="http://www.bilibili.com/" target="_blank" title="哔哩哔哩">
+
+
+
+								<img class="img-responsive" src="img/logo/bilibili.png" alt="bilibili哔哩哔哩（B站）" />
+
+
+
+							</a>
+
+
+
+
+
+						</div>
+
+
+
+
+
+					</div>					
+
+
+
+					<div class="col-xs-4 col-sm-2 ">
+
+
+
+
+
+						<div class="logo-lie">
+
+
+
+
+
+							<a href="http://www.pptv.com/" target="_blank" title="PPTV聚力">
+
+
+
+
+
+								<img class="img-responsive" src="img/logo/pptv.png" alt="PPTV聚力" />
+
+
+
+
+
+
+
+							</a>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+					<div class="col-xs-4 col-sm-2">
+
+
+
+						<div class="logo-lie">
+
+
+
+							<a href="http://www.yinyuetai.com/" target="_blank" title="音悦台MV">
+
+
+
+								<img class="img-responsive" src="img/logo/yinyuetailogo.png" alt="音悦台MV" />
+
+
+
+							</a>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+					<div class="col-xs-4 col-sm-2">
+
+
+
+						<div class="logo-lie">
+
+
+
+							<a href="http://www.fun.tv/" target="_blank" title="风行视频">
+
+
+
+								<img class="img-responsive" src="img/logo/fengxing.png" alt="风行视频" />
+
+
+
+							</a>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+				</div>
+
+
+
+				<!--第二行结束-->
+
+
+
+				<!--第三行开始-->
+
+
+
+
+
+				<div class="row">
+
+
+
+					<div class="col-xs-4 col-sm-2 ">
+
+
+
+						<div class="logo-lie">
+
+
+
+							<a href="http://www.wasu.cn/" target="_blank" title="WASU华数视频">
+
+
+
+								<img class="img-responsive" src="img/logo/wasulogo.png" alt="WASU华数视频" />
+
+
+
+							</a>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+					<div class="col-xs-4 col-sm-2 ">
+
+
+
+						<div class="logo-lie">
+
+
+
+							<a href="http://video.sina.com.cn/" target="_blank" title="新浪视频">
+
+
+
+								<img class="img-responsive" src="img/logo/sinalogo.png" alt="新浪视频" />
+
+
+
+							</a>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+					<div class="col-xs-4 col-sm-2">
+
+
+
+						<div class="logo-lie">
+
+
+
+							<a href="https://film.sohu.com/" target="_blank" title="搜狐视频">
+
+
+
+								<img class="img-responsive" src="img/logo/sohulogo.png" alt="搜狐视频" />
+
+
+
+							</a>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+					<div class="col-xs-4 col-sm-2 ">
+
+
+
+						<div class="logo-lie">
+
+
+
+							<a href="http://tv.cctv.com/" target="_blank" title="央视网">
+
+
+
+								<img class="img-responsive" src="img/logo/cntvlogo.png" alt="央视网" />
+
+
+
+							</a>
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+					<div class="col-xs-4 col-sm-2 ">
+
+
+
+
+
+						<div class="logo-lie">
+
+
+
+							<a href="http://www.acfun.cn/" target="_blank" title="Ac弹幕网">
+
+
+
+								<img class="img-responsive" src="img/logo/acfun.png" alt="AcFun弹幕视频网（A站）" />
+
+
+
+							</a>
+
+
+
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+
+
+				</div>
+
+
+
+
+
+				<!--第三行结束-->
+
+
+
+
+
+			</div>
+
+
+
+
+
+		</div>
+
+
+
+			<footer class="footer">
+	<div class="branding">
+		<!--友情链接-->
+			<div class="branding_link">
+				<section class="container">
+					
+
+  <a href="https://www.superso.top/" target="_blank"style="color:#888;margin:0 10px;">酉灿博客</a>
+
+  
+
+
+
+				</section>
+			</div>
+		<!--友情链接结束-->
+		<!--居中部分-->
+		<hr style="display: block;height: 1px;margin-bottom: 10px;background-color: #4f4f4f;    margin-top: 0px;margin-bottom: 20px;border: 0;"/>
+		<div class="container footer-tit">
+				<div class="counter">
+				
+			</div>		
+			<p>本项目的所有接口均来自互联网，仅供学习交流使用。<br>912493745@qq.com</p>
+			
+			
+			
+			<p class="toot-tto">
+
+
+
+
+
+
+
+<script>LA.init({id: "JR6J1HuVHSHkYiSi",ck: "JR6J1HuVHSHkYiSi"})</script>
+
+
+
+
+
+
+
+</p>
+			<!--统计展示-->
+		</div>
+	</div>
+ </footer>
+<!--侧滑-->
+<section class="ch">
+	
+	<div class="rollbar-item" title="返回顶部"><a class="rollbar-top"  href="#top"></a></div>
+</section>
+<section class="ch1">
+	
+    <!---<a href="https://www.superso.top/Favorites/457.html" target="_blank" title="支付每天领红包"><img src="https://vip.superso.top/img/zhifubao.png" alt="支付宝红包"></a>--->
+</section>
+
+<div class="left_ads">
+
+<style type="text/css">
+.ads_left { width: 300px; height: 100px; }
+@media (min-width:500px) { .ads_left { width:180px;height:360px; } }
+
+</style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1062184887231521"
+     crossorigin="anonymous"></script>
+<!-- v_right -->
+<ins class="adsbygoogle ads_left"
+     style="display:inline-block;"
+     data-ad-client="ca-pub-1062184887231521"
+     data-ad-slot="5276377527"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+  
+
+  <script type="text/javascript">
+  
+    $(function(){  
+  var winHeight = $(document).scrollTop();
+ 
+  $(window).scroll(function() {
+    var scrollY = $(document).scrollTop();// 获取垂直滚动的距离，即滚动了多少
+ 
+    if (scrollY > 200){ //如果滚动距离大于550px则隐藏，否则删除隐藏类
+      $('.left_ads').addClass('hiddened');
+    } 
+    else {
+      $('.left_ads').removeClass('hiddened');
+    }
+ 
+    if (scrollY > winHeight){ //如果没滚动到顶部，删除显示类，否则添加显示类
+      $('.left_ads').removeClass('showed');
+    } 
+    else {
+      $('.left_ads').addClass('showed');
+    }        
+ 
+   });
+});
+  </script>
+
+
+			<script type="text/javascript" src="js/tv-beipy.js" ></script>
+
+			<!---问题反馈js---->
+
+			<script src="app/style/jquery.min.js"></script>
+
+			<script src="app/style/chat.min.js"></script>
+
+
+
+</body>
+
+</html>
+
